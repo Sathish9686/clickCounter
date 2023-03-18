@@ -1,0 +1,21 @@
+.bg-container {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.span-element {
+  color: darkmagenta;
+}
+
+.button {
+  background-color: blue;
+  color: white;
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+}
